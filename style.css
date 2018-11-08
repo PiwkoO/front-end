@@ -118,7 +118,7 @@ body {
     top: 50%;
     width: 30px;
     height: 3px;
-    background: gray;
+    background: grey;
     transform: translate(-50%, -50%);
     animation: move-left 3s infinite linear;
 }
@@ -153,7 +153,7 @@ body {
 
 .small_candle_left_eye {
     position: absolute;
-    left 30%;
+    left: 30%;
     top: 50%;
     width: 5px;
     height: 5px;
@@ -178,7 +178,7 @@ body {
     float: left;
     background: #673c63;
     transform: translate(-80%, 0);
-    animation: changeto-grater 3s infinite linear;
+    animation: changeto-greater 3s infinite linear;
 }
 
 .light_wave {
