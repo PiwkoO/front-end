@@ -534,7 +534,7 @@ body {
         float: left;
         transform-origin: bottom left;
         transform: rotate(-45deg) translate(-50%, -65%);
-        -webkit-transform: rotate(-45deg) translate(-50%, -65%);
+        -webkit-transform: rotate(-45deg) translate(-50%, -50%);
     }
 }
 
@@ -563,6 +563,6 @@ body {
         float: left;
         transform-origin: bottom left;
         transform: rotate(135deg) translate(-80%, 20%);
-        -webkit-transform: rotate(135deg) translate(-80%, 20%);
+        -webkit-transform: rotate(135deg) translate(-80%, 30%);
     }
 }
